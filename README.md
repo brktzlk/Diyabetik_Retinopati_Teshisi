@@ -1,2 +1,2 @@
-# Diyabetik_Retinopati_Teshisi
+# Diyabetik Retinopati Teshisi
 Bu proje retinopati
